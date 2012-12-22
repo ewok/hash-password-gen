@@ -6,4 +6,3 @@ hash-password-gen
 пароль = sha1sum|md5sum(мастер_пароль + соль)
 
 Используется QT4
-This file was modified by PyCharm (2.7 EAP) PY-124.253 for binding GitHub repository
